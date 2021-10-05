@@ -38,8 +38,8 @@ Next, we need to add the metadata to the HTML regarding which languages we have 
 Add the following lines to the `<head>` section of your `index.html` file.
 
 ```html
-    <meta name="defaultLanguage" content="en-US">
-    <meta name="availableLanguages" content="en-US, es-MX">
+    <meta name="defaultLanguage" content="en-US"/>
+    <meta name="availableLanguages" content="en-US, es-MX"/>
 ```
 
 ---

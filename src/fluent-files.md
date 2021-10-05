@@ -30,7 +30,7 @@ touch src/assets/localization/es-MX/main.ftl
 > └── package.json
 > ```
 
-Then we will populate our `main.ftl` files with our localzed message using `hello` as our `data-l10n-id`.
+Then we will populate our `main.ftl` files with our localized message using `hello` as our `data-l10n-id`.
 
 > **_src/assets/localization/en-US/main.ftl_**
 > ```

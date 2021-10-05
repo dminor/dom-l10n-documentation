@@ -75,6 +75,8 @@ Now we need to add the Parcel bundler to run our project.
 npm install parcel-bundler
 ```
 
+>>> :dminor: I get a warning that parcel-bundler is deprecated and we should use parcel.
+
 You should now see that `parcel-bundler` has been added as a dependency in `package.json`
 
 ```json
@@ -96,7 +98,7 @@ And then add these lines to `package.json`
 ```json
 "browserslist": [
   "since 2019-01"
-],
+]
 ```
 
 ---
